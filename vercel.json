@@ -6,7 +6,7 @@
     <p>Оформи карту и получи бонус сертификатом или кешбэком.</p>
     <!-- Только по клику переходим на партнёрку -->
     <a href="https://partner.example.com/aff_link" style="display:inline-block;padding:12px 24px;background:#3b5998;color:white;border-radius:4px;text-decoration:none;">
-      Получить бонус!
+      Получить бонус
     </a>
   </body>
 </html>
