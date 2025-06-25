@@ -1,5 +1,12 @@
-{
-  "redirects": [
-    { "source": "/", "destination": "https://rfnd.io/t/vmcf5/?pid=2137&sub1=git&erid=2SDnjeQgf9v", "permanent": false }
-  ]
-}
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8"><title>Бонус за карту</title></head>
+  <body>
+    <h1>До 1 200 ₽ за простые покупки!</h1>
+    <p>Оформи карту и получи бонус сертификатом или кешбэком.</p>
+    <!-- Только по клику переходим на партнёрку -->
+    <a href="https://partner.example.com/aff_link" style="display:inline-block;padding:12px 24px;background:#3b5998;color:white;border-radius:4px;text-decoration:none;">
+      Получить бонус
+    </a>
+  </body>
+</html>
